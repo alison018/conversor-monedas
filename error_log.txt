@@ -1,0 +1,5 @@
+2024-07-08T16:31:36.393354 - java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsDouble()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+2024-07-08T16:52:04.652075 - java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonObject.get(String)" because "tasasDeCambio" is null
+2024-07-08T16:52:27.337379 - java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonObject.get(String)" because "tasasDeCambio" is null
+2024-07-08T17:01:41.081248 - java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsDouble()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+2024-07-08T17:02:01.892346 - java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsDouble()" because the return value of "com.google.gson.JsonObject.get(String)" is null
